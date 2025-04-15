@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://sl.bing.net/bdTixLby1Ke"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -31,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://indoanalytica.com/static/images/data-science-5.gif"  />
 
 ###
 
